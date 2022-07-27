@@ -1,0 +1,2 @@
+#create output files
+mkdir 1_RNA_fsqc 2_RNA_clear 2_RNA_clear_fsqc 3_de_rRNA 4_de_tRNA 
